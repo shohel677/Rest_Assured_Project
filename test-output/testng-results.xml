@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-04T02:44:04 BDT" name="Suite" finished-at="2023-08-04T02:44:14 BDT" duration-ms="9716">
+    <groups>
+    </groups>
+    <test started-at="2023-08-04T02:44:04 BDT" name="Test" finished-at="2023-08-04T02:44:14 BDT" duration-ms="9716">
+      <class name="api.test.UserTestcase">
+        <test-method is-config="true" signature="checkResponseTime()[pri:0, instance:api.test.UserTestcase@4189d70b]" started-at="2023-08-04T02:44:08 BDT" name="checkResponseTime" finished-at="2023-08-04T02:44:08 BDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseTime -->
+        <test-method signature="testCreateUser()[pri:1, instance:api.test.UserTestcase@4189d70b]" started-at="2023-08-04T02:44:08 BDT" name="testCreateUser" finished-at="2023-08-04T02:44:10 BDT" duration-ms="1722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method is-config="true" signature="printErrorInConsole(org.testng.ITestResult)[pri:0, instance:api.test.UserTestcase@4189d70b]" started-at="2023-08-04T02:44:10 BDT" name="printErrorInConsole" finished-at="2023-08-04T02:44:10 BDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCreateUser status=SUCCESS method=UserTestcase.testCreateUser()[pri:1, instance:api.test.UserTestcase@4189d70b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printErrorInConsole -->
+        <test-method signature="testReadUser()[pri:2, instance:api.test.UserTestcase@4189d70b]" started-at="2023-08-04T02:44:10 BDT" name="testReadUser" finished-at="2023-08-04T02:44:11 BDT" duration-ms="1344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReadUser -->
+        <test-method is-config="true" signature="printErrorInConsole(org.testng.ITestResult)[pri:0, instance:api.test.UserTestcase@4189d70b]" started-at="2023-08-04T02:44:11 BDT" name="printErrorInConsole" finished-at="2023-08-04T02:44:11 BDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testReadUser status=SUCCESS method=UserTestcase.testReadUser()[pri:2, instance:api.test.UserTestcase@4189d70b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printErrorInConsole -->
+        <test-method signature="testUpdateUse()[pri:3, instance:api.test.UserTestcase@4189d70b]" started-at="2023-08-04T02:44:11 BDT" name="testUpdateUse" finished-at="2023-08-04T02:44:13 BDT" duration-ms="1336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUse -->
+        <test-method is-config="true" signature="printErrorInConsole(org.testng.ITestResult)[pri:0, instance:api.test.UserTestcase@4189d70b]" started-at="2023-08-04T02:44:13 BDT" name="printErrorInConsole" finished-at="2023-08-04T02:44:13 BDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testUpdateUse status=SUCCESS method=UserTestcase.testUpdateUse()[pri:3, instance:api.test.UserTestcase@4189d70b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printErrorInConsole -->
+        <test-method signature="testDeleteUser()[pri:4, instance:api.test.UserTestcase@4189d70b]" started-at="2023-08-04T02:44:13 BDT" name="testDeleteUser" finished-at="2023-08-04T02:44:14 BDT" duration-ms="1339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+        <test-method is-config="true" signature="printErrorInConsole(org.testng.ITestResult)[pri:0, instance:api.test.UserTestcase@4189d70b]" started-at="2023-08-04T02:44:14 BDT" name="printErrorInConsole" finished-at="2023-08-04T02:44:14 BDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testDeleteUser status=SUCCESS method=UserTestcase.testDeleteUser()[pri:4, instance:api.test.UserTestcase@4189d70b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printErrorInConsole -->
+      </class> <!-- api.test.UserTestcase -->
+      <class name="api.test.LoginTestcase">
+        <test-method is-config="true" signature="checkResponseTime()[pri:0, instance:api.test.LoginTestcase@6497b078]" started-at="2023-08-04T02:44:04 BDT" name="checkResponseTime" finished-at="2023-08-04T02:44:05 BDT" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseTime -->
+        <test-method signature="testLogout()[pri:0, instance:api.test.LoginTestcase@6497b078]" started-at="2023-08-04T02:44:05 BDT" name="testLogout" finished-at="2023-08-04T02:44:07 BDT" duration-ms="2118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogout -->
+        <test-method is-config="true" signature="printErrorInConsole(org.testng.ITestResult)[pri:0, instance:api.test.LoginTestcase@6497b078]" started-at="2023-08-04T02:44:07 BDT" name="printErrorInConsole" finished-at="2023-08-04T02:44:07 BDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLogout status=SUCCESS method=LoginTestcase.testLogout()[pri:0, instance:api.test.LoginTestcase@6497b078] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printErrorInConsole -->
+        <test-method signature="testPositiveLogin()[pri:0, instance:api.test.LoginTestcase@6497b078]" started-at="2023-08-04T02:44:07 BDT" name="testPositiveLogin" finished-at="2023-08-04T02:44:08 BDT" duration-ms="1327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPositiveLogin -->
+        <test-method is-config="true" signature="printErrorInConsole(org.testng.ITestResult)[pri:0, instance:api.test.LoginTestcase@6497b078]" started-at="2023-08-04T02:44:08 BDT" name="printErrorInConsole" finished-at="2023-08-04T02:44:08 BDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPositiveLogin status=SUCCESS method=LoginTestcase.testPositiveLogin()[pri:0, instance:api.test.LoginTestcase@6497b078] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printErrorInConsole -->
+      </class> <!-- api.test.LoginTestcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

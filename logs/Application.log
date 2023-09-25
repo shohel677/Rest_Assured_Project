@@ -1,0 +1,141 @@
+00:31:38.777 [main] INFO  api.test.UserCrud - **************************Create user test case started**************************
+00:31:42.193 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:31:42.193 [main] INFO  api.test.UserCrud - **************************Create user test case End**************************
+00:31:42.201 [main] INFO  api.test.UserCrud - **************************Read user test case started**************************
+00:31:43.542 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:31:43.542 [main] INFO  api.test.UserCrud - **************************Read user test case End**************************
+00:31:43.545 [main] INFO  api.test.UserCrud - **************************Update user test case started**************************
+00:31:44.882 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:31:44.882 [main] INFO  api.test.UserCrud - **************************Update user test case End**************************
+00:31:44.886 [main] INFO  api.test.UserCrud - **************************Delete user test case started**************************
+00:31:46.618 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:31:46.620 [main] INFO  api.test.UserCrud - **************************Delete user test case End**************************
+00:33:54.866 [main] INFO  api.test.UserCrud - **************************Create user test case started**************************
+00:33:57.533 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:33:57.533 [main] INFO  api.test.UserCrud - **************************Create user test case End**************************
+00:33:57.539 [main] INFO  api.test.UserCrud - **************************Read user test case started**************************
+00:34:00.806 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:34:00.806 [main] INFO  api.test.UserCrud - **************************Read user test case End**************************
+00:34:00.810 [main] INFO  api.test.UserCrud - **************************Update user test case started**************************
+00:34:03.411 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:34:03.412 [main] INFO  api.test.UserCrud - **************************Update user test case End**************************
+00:34:03.414 [main] INFO  api.test.UserCrud - **************************Delete user test case started**************************
+00:34:04.727 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:34:04.728 [main] INFO  api.test.UserCrud - **************************Delete user test case End**************************
+00:35:46.466 [main] INFO  api.test.UserCrud - **************************Create user test case started**************************
+00:35:49.498 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:35:49.498 [main] INFO  api.test.UserCrud - **************************Create user test case End**************************
+00:36:05.852 [main] INFO  api.test.UserCrud - **************************Create user test case started**************************
+00:36:08.507 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:36:08.507 [main] INFO  api.test.UserCrud - **************************Create user test case End**************************
+00:36:08.513 [main] INFO  api.test.UserCrud - **************************Read user test case started**************************
+00:36:09.860 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:36:09.860 [main] INFO  api.test.UserCrud - **************************Read user test case End**************************
+00:40:11.119 [main] INFO  api.test.UserCrud - **************************Create user test case started**************************
+00:40:13.967 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:40:13.967 [main] INFO  api.test.UserCrud - **************************Create user test case End**************************
+00:40:13.978 [main] INFO  api.test.UserCrud - **************************Read user test case started**************************
+00:40:15.379 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:40:15.379 [main] INFO  api.test.UserCrud - **************************Read user test case End**************************
+00:40:15.383 [main] INFO  api.test.UserCrud - **************************Update user test case started**************************
+00:40:16.736 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:40:16.736 [main] INFO  api.test.UserCrud - **************************Update user test case End**************************
+00:40:16.742 [main] INFO  api.test.UserCrud - **************************Delete user test case started**************************
+00:40:19.766 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:40:19.766 [main] INFO  api.test.UserCrud - **************************Delete user test case End**************************
+00:53:15.824 [main] INFO  api.test.UserCrud - **************************Create user test case started**************************
+00:53:18.262 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:53:18.262 [main] INFO  api.test.UserCrud - **************************Create user test case End**************************
+00:53:18.270 [main] INFO  api.test.UserCrud - **************************Read user test case started**************************
+00:53:19.582 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:53:19.582 [main] INFO  api.test.UserCrud - **************************Read user test case End**************************
+00:53:19.585 [main] INFO  api.test.UserCrud - **************************Update user test case started**************************
+00:53:20.938 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:53:20.938 [main] INFO  api.test.UserCrud - **************************Update user test case End**************************
+00:53:20.943 [main] INFO  api.test.UserCrud - **************************Delete user test case started**************************
+00:53:22.228 [main] INFO  api.test.UserCrud - Assertion passed for status code 200
+00:53:22.228 [main] INFO  api.test.UserCrud - **************************Delete user test case End**************************
+01:32:50.177 [main] INFO  api.test.UserTestcase - **************************Create user test case started**************************
+01:32:53.011 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+01:32:53.011 [main] INFO  api.test.UserTestcase - **************************Create user test case End**************************
+01:32:53.018 [main] INFO  api.test.UserTestcase - **************************Read user test case started**************************
+01:32:54.401 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+01:32:54.401 [main] INFO  api.test.UserTestcase - **************************Read user test case End**************************
+01:32:54.405 [main] INFO  api.test.UserTestcase - **************************Update user test case started**************************
+01:32:55.715 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+01:32:55.715 [main] INFO  api.test.UserTestcase - **************************Update user test case End**************************
+01:32:55.718 [main] INFO  api.test.UserTestcase - **************************Delete user test case started**************************
+01:32:57.021 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+01:32:57.021 [main] INFO  api.test.UserTestcase - **************************Delete user test case End**************************
+02:35:57.029 [main] INFO  api.test.UserTestcase - **************************Create user test case started**************************
+02:35:58.603 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:35:58.604 [main] INFO  api.test.UserTestcase - **************************Create user test case End**************************
+02:35:58.608 [main] INFO  api.test.UserTestcase - **************************Read user test case started**************************
+02:35:59.945 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:35:59.945 [main] INFO  api.test.UserTestcase - **************************Read user test case End**************************
+02:35:59.949 [main] INFO  api.test.UserTestcase - **************************Update user test case started**************************
+02:36:01.316 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:36:01.316 [main] INFO  api.test.UserTestcase - **************************Update user test case End**************************
+02:36:01.324 [main] INFO  api.test.UserTestcase - **************************Delete user test case started**************************
+02:36:02.644 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:36:02.644 [main] INFO  api.test.UserTestcase - **************************Delete user test case End**************************
+02:37:08.402 [main] INFO  api.test.UserTestcase - **************************Create user test case started**************************
+02:37:10.090 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:37:10.090 [main] INFO  api.test.UserTestcase - **************************Create user test case End**************************
+02:37:10.095 [main] INFO  api.test.UserTestcase - **************************Read user test case started**************************
+02:37:11.418 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:37:11.418 [main] INFO  api.test.UserTestcase - **************************Read user test case End**************************
+02:37:11.422 [main] INFO  api.test.UserTestcase - **************************Update user test case started**************************
+02:37:12.730 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:37:12.730 [main] INFO  api.test.UserTestcase - **************************Update user test case End**************************
+02:37:12.736 [main] INFO  api.test.UserTestcase - **************************Delete user test case started**************************
+02:37:14.094 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:37:14.094 [main] INFO  api.test.UserTestcase - **************************Delete user test case End**************************
+02:38:14.303 [main] INFO  api.test.UserTestcase - **************************Create user test case started**************************
+02:38:15.868 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:38:15.869 [main] INFO  api.test.UserTestcase - **************************Create user test case End**************************
+02:38:15.873 [main] INFO  api.test.UserTestcase - **************************Read user test case started**************************
+02:38:17.219 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:38:17.219 [main] INFO  api.test.UserTestcase - **************************Read user test case End**************************
+02:38:17.225 [main] INFO  api.test.UserTestcase - **************************Update user test case started**************************
+02:38:18.562 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:38:18.563 [main] INFO  api.test.UserTestcase - **************************Update user test case End**************************
+02:38:18.568 [main] INFO  api.test.UserTestcase - **************************Delete user test case started**************************
+02:38:19.901 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:38:19.902 [main] INFO  api.test.UserTestcase - **************************Delete user test case End**************************
+02:38:58.346 [main] INFO  api.test.UserTestcase - **************************Create user test case started**************************
+02:38:59.906 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:38:59.906 [main] INFO  api.test.UserTestcase - **************************Create user test case End**************************
+02:38:59.912 [main] INFO  api.test.UserTestcase - **************************Read user test case started**************************
+02:39:01.269 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:39:01.269 [main] INFO  api.test.UserTestcase - **************************Read user test case End**************************
+02:39:01.273 [main] INFO  api.test.UserTestcase - **************************Update user test case started**************************
+02:39:02.569 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:39:02.569 [main] INFO  api.test.UserTestcase - **************************Update user test case End**************************
+02:39:02.574 [main] INFO  api.test.UserTestcase - **************************Delete user test case started**************************
+02:39:03.887 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:39:03.887 [main] INFO  api.test.UserTestcase - **************************Delete user test case End**************************
+02:40:37.160 [main] INFO  api.test.UserTestcase - **************************Create user test case started**************************
+02:40:38.753 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:40:38.753 [main] INFO  api.test.UserTestcase - **************************Create user test case End**************************
+02:40:38.760 [main] INFO  api.test.UserTestcase - **************************Read user test case started**************************
+02:40:40.072 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:40:40.072 [main] INFO  api.test.UserTestcase - **************************Read user test case End**************************
+02:40:40.078 [main] INFO  api.test.UserTestcase - **************************Update user test case started**************************
+02:40:41.392 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:40:41.393 [main] INFO  api.test.UserTestcase - **************************Update user test case End**************************
+02:40:41.400 [main] INFO  api.test.UserTestcase - **************************Delete user test case started**************************
+02:40:42.713 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:40:42.713 [main] INFO  api.test.UserTestcase - **************************Delete user test case End**************************
+02:44:08.834 [main] INFO  api.test.UserTestcase - **************************Create user test case started**************************
+02:44:10.435 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:44:10.436 [main] INFO  api.test.UserTestcase - **************************Create user test case End**************************
+02:44:10.440 [main] INFO  api.test.UserTestcase - **************************Read user test case started**************************
+02:44:11.783 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:44:11.783 [main] INFO  api.test.UserTestcase - **************************Read user test case End**************************
+02:44:11.788 [main] INFO  api.test.UserTestcase - **************************Update user test case started**************************
+02:44:13.122 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:44:13.122 [main] INFO  api.test.UserTestcase - **************************Update user test case End**************************
+02:44:13.125 [main] INFO  api.test.UserTestcase - **************************Delete user test case started**************************
+02:44:14.462 [main] INFO  api.test.UserTestcase - Assertion passed for status code 200
+02:44:14.462 [main] INFO  api.test.UserTestcase - **************************Delete user test case End**************************
